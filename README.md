@@ -1,5 +1,5 @@
-# Siddhi
-👋 Hi, I'm Siddhi
+ Siddhi
+#👋 Hi, I'm Siddhi
 
 📊 Data Analysis and Visualization | Python | Power BI | SQL | Excel | Tableau
 
